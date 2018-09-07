@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+article.container {
+  margin: 0 auto;
+  padding: 0 30px 60px 30px;
+  max-width: 700px;
+  background-color: #f7f7f7;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  background-color: #ebe9e7;
+}
+
+footer {
+  margin: 0 auto;
+  padding: 20px 10px 40px 30px;
+  max-width: 700px;
+  font-size: 10px;
+  text-align: center;
+  color: #bbb;
+  background-color: #f7f7f7;
+}
+
+h1, h2, h3, h4 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+}
+
+h1 {
+  margin: 0 0 10px 0;
+  padding: 0;
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+
+h3 {
+  margin: 10px 0 20px 0;
+  padding: 0;
+  font-size: 25px;
+}
+
+header.company-logo {
+  margin: 0 auto;
+  padding: 0;
+}
+
+hr {
+  width: auto;
+  margin: -30px 0 60px 0;
+  border: solid #ebe9e7 1px;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.box-container {
+  margin: 50px 0 110px 0;
+  padding: 30px;
+  width: auto;
+  height: auto;
+  position: relative;
+}
+
+.box-head-left {
+  padding-bottom: 15px;
+}
+
+.box-head-right {
+  padding-bottom: 15px;
+  padding-left: 47%;
+}
+
+.btn-left {
+  width: 50%;
+  height: 48px;
+  margin: 0;
+  font-size: 16px;
+}
+
+.btn-right {
+  width: 50%;
+  height: 48px;
+  margin-left: 47%;
+  font-size: 16px;
+}
+
+.company-logo img {
+  max-width: 100px;
+  width: auto;
+  height: auto;
+  padding: 40px 0 40px 30px;
+}
+
+.cta-box {
+  margin: 0;
+  width: auto;
+  height: auto;
+  padding: 25px 50px 25px 50px;
+  background-color: #ebe9e7;
+  text-align: center;
+}
+
+.cta-btn {
+  width: 280px;
+  height: 48px;
+  font-size: 16px;
+}
+
+.cta-p {
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.image1 {
+  position: absolute;
+  top: -30px;
+  left: 25px;
+}
+
+.image2 {
+  position: absolute;
+  top: -35px;
+  left: 56%;
+}
+
+.image-placeholder img{
+  width: 40%;
+  max-height: 300px;
+}
+
+.main-headlines {
+  margin: 0;
+  padding: 20px 0 0 0;
+  text-align: center;
+}
+
+.p-left {
+  padding-right: 47%;
+  padding-bottom: 15px;
+}
+
+.p-right {
+  padding-left: 47%;
+  padding-bottom: 15px;
+}
+
+.vertical-line {
+  margin: 0;
+  padding: 0;
+  width: 2px;
+  height: 80px;
+  border-left: solid #ebe9e7 2px;
+}

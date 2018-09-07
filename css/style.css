@@ -1,0 +1,164 @@
+article.container {
+  max-width: 700px;
+  background-color: #f7f7f7;
+}
+
+body {
+  max-width: 700px;
+  background-color: #ebe9e7;
+  font-size: 20px;
+}
+
+footer {
+  padding: 50px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 9px;
+  text-align: center;
+}
+
+h1, h2, h3, h4 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+header.company-logo {
+  max-width: 700px;
+  background-color: #f7f7f7;
+}
+
+hr {
+  width: 500px;
+  margin: -30px 0 50px 55px;
+  border: solid #ebe9e7 1px;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.box-container {
+  position: relative;
+  width: auto;
+  height: 150px;
+  margin: 25px 55px 100px 55px;
+  padding: 30px 40px;
+  background-color: #ebe9e7;
+}
+
+.box {
+}
+
+.box-head-left {
+  padding-bottom: 15px;
+}
+
+.box-head-right {
+  padding-bottom: 15px;
+  padding-left: 255px;
+}
+
+.btn {
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+.btn-left {
+  width: 140px;
+  height: 25px;
+  color: white;
+  background-color: #2c2c2c;
+  font-size: 14px;
+}
+
+.btn-right {
+  width: 140px;
+  height: 25px;
+  margin-left: 255px;
+  background-color: #2c2c2c;
+  font-size: 14px;
+}
+
+.company-logo img {
+  max-width: 100px;
+  width: auto;
+  height: auto;
+  padding: 40px 0 40px 30px;
+}
+
+.cta-box {
+  width: 400px;
+  height: 120px;
+  margin-left: 55px;
+  padding: 20px 50px 50px 50px;
+  background-color: #ebe9e7;
+  text-align: center;
+}
+
+.cta-btn {
+  width: 280px;
+  height: 35px;
+  background-color: #ac2023;
+  font-size: 18px;
+}
+
+.cta-p {
+  font-size: 0.6em;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.image2 {
+  position: absolute;
+  top: -35px;
+  left: 75px;
+}
+
+.image1 {
+  position: absolute;
+  top: -35px;
+  left: 265px;
+}
+
+.image-placeholder img{
+  width: 250px;
+  height: 270px;
+  background-color: #bababa;
+}
+
+.main-headlines {
+  margin: 0 100px;
+  text-align: center;
+}
+
+.p-left {
+  padding-right: 250px;
+  padding-bottom: 15px;
+}
+
+.p-right {
+  padding-left: 255px;
+  padding-bottom: 15px;
+}
+
+.vertical-line {
+  width: 2px;
+  height: 80px;
+  border-left: solid #ebe9e7 1px;
+  margin: 20px 40px;
+}
