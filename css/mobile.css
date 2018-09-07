@@ -1,45 +1,39 @@
 article.container {
   margin: 0 auto;
   padding: 0 10px 40px 10px;
-  max-width: 700px;
 }
 
 body {
   margin: 0;
-  background-color: #f7f7f7;
 }
 
 footer {
-  margin: 0 auto 40px auto;
-  padding: 0 10px 0 10px;
-  max-width: 700px;
   font-size: 10px;
-  text-align: center;
-  color: #bbb;
-  background-color: #f7f7f7;
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 0 10px 40px 10px;
 }
 
 h1 {
+  font-size: 40px;
   margin: 0 0 10px 0;
   padding: 0;
-  font-size: 40px;
 }
 
 h2 {
+  font-size: 30px;
   margin: 20px 0 10px 0;
   padding: 0;
-  font-size: 30px;
-  letter-spacing: 1px;
 }
 
 h3 {
+  font-size: 20px;
   margin: 10px 0 20px 0;
   padding: 0;
-  font-size: 20px;
 }
 
 header.company-logo {
-  margin: 20px auto 0 0;
+  margin: 0 auto;
   padding: 10px 20px;
 }
 
@@ -47,17 +41,13 @@ hr {
   margin: -25px 0 60px 0;
   padding: 0;
   width: auto;
-  border: solid #ebe9e7 1px;
 }
 
 .box-container {
+  height: auto;
   margin: 10px 0 89px 0;
   padding: 0;
   padding-bottom: 25px;
-  width: auto;
-  height: auto;
-  background-color: #ebe9e7;
-  position: relative;
 }
 
 .box {
@@ -65,65 +55,54 @@ hr {
 }
 
 .box-head-left, .box-head-right {
+  font-size: 20px;
+  height: auto;
   margin: 10px 0 20px 0;
   padding: 0;
+  text-align: center;
   width: auto;
-  height: auto;
-  font-size: 20px;
-  text-align: center;
-}
-
-.btn {
-  border: none;
-  border-radius: 3px;
-  text-align: center;
-  text-decoration: none;
-  letter-spacing: 1px;
 }
 
 .btn-left, .btn-right {
+  font-size: 16px;
+  height: 48px;
   margin: 0;
   margin-top: 20px;
   padding: 0;
   width: 100%;
-  height: 48px;
-  font-size: 16px;
 }
 
 .company-logo img {
   margin: 0;
-  padding: 0;
-  width: auto;
-  height: auto;
   max-width: 30%;
+  padding: 0;
 }
 
 .cta-box {
-  width: auto;
   height: auto;
   margin: 0;
   padding: 10px 10px 30px 10px;
+  width: auto;
 }
 
 .cta-btn {
+  font-size: 16px;
+  height: 48px;
   margin: 20px auto 0 auto;
   padding: 0;
   width: 65%;
-  height: 48px;
-  font-size: 16px;
 }
 
 .cta-p {
+  font-size: 14px;
   margin: 0;
   margin-bottom: 10px;
   padding: 0;
-  font-size: 14px;
 }
 
 .image1, .image2 {
-  position: absolute;
+  left: 2.5%;
   top: -40px;
-  left: 10px;
 }
 
 .image-placeholder img{
@@ -132,11 +111,10 @@ hr {
 }
 
 .main-headlines {
+  height: auto;
   margin: 0;
   padding: 30px 0 0 0;
   width: auto;
-  height: auto;
-  text-align: center;
 }
 
 .p-left, .p-right {
